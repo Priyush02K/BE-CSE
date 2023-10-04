@@ -1,0 +1,67 @@
+Devops:
+=================
+* Devops is not a new Tool  /Technology or language in the market
+* IT is a new Culture or process to develop ,release and maintain software application or project
+  with higher quality in faster way
+* We can achieve by using automation tools
+
+ For any software product , 2 groups of engineers will work
+ 1)Development Group
+ 2)Operations Group / Non-Development / Administrators Group
+
+
+ Development Group:
+ ======================
+ * The people who are involving in following areas
+   1)Planning
+   2)Designing
+   3)Coding
+   4)Building
+   5)Testing
+ are considered as Development
+
+
+ 1)Business Architect 
+ 2)System Architect
+ 3)Design Architect
+ 4)Developers
+ 5)Build Engineer  [ jar or war or ear file  ]
+ 6)Testers / QA
+
+ Operations Group:
+ ====================
+ The people who are invoving in 
+ 1)Release
+ 2)Deploy
+ 3)Operations
+ 4)Monitor
+
+ are considered as Operations Group
+
+ * Configuration Engineer
+ * System Admin
+ * Database Admin
+ * Network Admin
+
+
+ * Devops is a combination of Development and Operations
+ * The main objective of devops is to implement collobiration between development and operations
+   team
+
+  SDLC [ Software Development Life cycle ]:
+  ============================================
+  1)Waterfall model
+  2)Prototype model
+  3)Increment / Iterative Model
+  4)Spiral model
+  5)RAD
+  6)Big-Bang 
+  7)Fish
+  8)V Model
+  9)Agile
+  10)Devops Culture
+
+  1)GIT
+  2)Junit
+  3)log4j
+  4)Maven
