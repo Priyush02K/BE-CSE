@@ -33,3 +33,5 @@ Computer Science and Engineering (CSE) is a multidisciplinary field that combine
 15. **Research and Innovation**: Many CSE professionals engage in research to push the boundaries of technology and create new solutions for existing and emerging challenges.
 
 Computer Science and Engineering is a dynamic field that continues to evolve with advancements in technology. It offers a wide range of career opportunities in various industries, including technology, finance, healthcare, and entertainment. As technology becomes increasingly integrated into our lives, the importance of CSE is likely to continue growing.
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgowithcode.com%2Ftop-programming-languages&psig=AOvVaw1gvlDa8fylUMuhdA53LvF3&ust=1699473025281000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjT7MLUsoIDFQAAAAAdAAAAABAQ
