@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+<script type="text/javascript"
+src="./angular.min.js"></script>
+<title>Angular Lab</title>
+<style>
+body {
+background-color: {{color}}
+}
+</style>
+</head>
+<body style="text-align:center">
+<h1>Hey Welcome</h1>
+<h2>Change the background color</h2>
+<p>Enter color name </p>
+<input ng-init="color='lightgreen'" ; ng-model="color">
+<div ng-controller="ctrl" style="text-align: center; padding-top: 05%;">
+<h2>Details</h2>
+Name: <input type="text" ng-model="name">
+PRN no: <input type="number" ng-model="prn">
+
+<h2>Filled Details</h2>
+<br>
+NANE: {{name}}
+<br>
+PRN NO: {{prn}}
+<br>
+
+</div>
+<script>
+var a = angular.module('app', []);
+a.controller('ctrl', function($scope){
+$scope.name="Priyush";
+$scope.prn=21112018;
+})
+</script>
+</body>
+</html>

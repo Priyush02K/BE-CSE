@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script type="text/javascript" src="./angular.min.js"></script>
+<script src="ex04.js"></script>
+<title>Angular Lab</title>
+<style>
+table,
+th,
+td {
+border: 1px solid black;
+border-collapse: collapse;
+padding: 5px;
+}
+table tr:nth-child(odd) {
+background-color: #f2f2f2;
+}
+table-tr:nth-child(even) {
+background-color: #ffff;
+}
+</style>
+</head>
+<body>
+<h2>Student Records </h2>
+<div ng-app="myapp" ng-controller="studentController">
+<table border="0">
+<tr>
+<td>First Name:</td>
+<td><input type="text"
+ng-model="student.firstName"></td>
+</tr>
+<tr>
+<td>Last Name:</td>
+<td><input type="text"
+ng-model="student.lastName"></td>
+</tr>
+<tr>
+<td>NAME: </td>
+<td>{{student.fullName()}}</td>
+</tr>
+<tr>
+<td>SUBJECTS:</td>
+<td>
+<table>
+<tr>
+    <th>Sub-Name</th>
+    <th>Marks</th>
+    </tr>
+    <tr ng-repeat="subject in
+    student.subjects">
+    <td>{{subject.name}}</td>
+    <td>{{subject.marks}}</td>
+    </tr>
+ </table>
+</td>
+</tr>
+</table>
+ </div>
+</body>
+</html>
+    
