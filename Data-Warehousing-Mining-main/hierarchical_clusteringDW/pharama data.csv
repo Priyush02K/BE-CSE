@@ -1,0 +1,13 @@
+cutomers_id,cutomers_name,cutomers_address,orders,products,payment
+1,Priyush,Mumbai,180,Paracetamol,3000
+1,Priyush,Mumbai,180,Paracetamol,3000
+10,Rupesh,Aurangabad,920,Pantop,8270
+2,Hardik,Satara,100,Albendazole ,6000
+3,Aniket,Pune,120,Cloxacillin,1000
+4,Rushi,Nagpur,320,Ranitidine ,1300
+5,Shubham,Panvel,220,Azee,2300
+6,Sachin,Amravati,220,betnsoil,4300
+7,Amol,Buldhana,720,cefix,2200
+8,RAvi,Ahmednagar,820,cipox,1200
+9,Ritesh,Ahmednagar,120,Dolo,1270
+10,Rupesh,Aurangabad,920,Pantop,8270
